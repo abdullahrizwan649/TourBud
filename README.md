@@ -12,6 +12,7 @@ By leveraging GPS, machine learning, and real-time information sharing, the app 
 The app aims to revolutionize travel planning, enhance user experiences, and foster a sense of community among travelers.
 
 **IMAGES**
+
 ![image](https://github.com/abdullahrizwan649/TourBud/assets/100567651/e55cb466-26d9-440f-acdc-d2c9bab764e5)
 
 ![image](https://github.com/abdullahrizwan649/TourBud/assets/100567651/15c9149f-3305-407c-92ca-2db1f7105f60)
