@@ -25,6 +25,7 @@ The app aims to revolutionize travel planning, enhance user experiences, and fos
 
 
 **THE BORING STUFF :/**
+
 The Minimum SDK is API 21: Android 5.0 (Lollipop). It will run on 98.8% of android devices.
 
 
