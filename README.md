@@ -34,7 +34,7 @@ You must have Android Studio Chimpunk 2021 2.1 or an earlier version installed o
 
 HERE'S A LINK TO INSTALL ANDROID STUDIO : https://developer.android.com/studio?gclsrc=ds&gclsrc=ds#downloads
 
-After installation, copy the link to the repository -> https://github.com/abdullahrizwan649/Tic-Tac-Toe
+After installation, copy the link to the repository -> https://github.com/abdullahrizwan649/TourBud
 
 Now, go to Android Studio > File > New > Project From Version Control and paste the URL to the repository and clone.
 
