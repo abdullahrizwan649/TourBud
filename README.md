@@ -19,7 +19,7 @@ The app aims to revolutionize travel planning, enhance user experiences, and fos
 
 ![SEARCHHHH](https://github.com/abdullahrizwan649/TourBud/assets/100567651/f3559ddb-05cc-49cb-9d90-3a4075ec8e6b)
 
-![HISTORYYY](https://github.com/abdullahrizwan649/TourBud/assets/100567651/e4c8051f-eac8-406e-81cb-3b724594b4ec)
+![ACTIVITY](https://github.com/abdullahrizwan649/TourBud/assets/100567651/2d2fede7-ff60-478b-94c9-1d92f19a4f2b)
 
 ![profile](https://github.com/abdullahrizwan649/TourBud/assets/100567651/6009f437-7fbc-4022-9768-bc78c370fe08)
 
