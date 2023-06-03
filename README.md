@@ -4,8 +4,11 @@ HELLO THERE!
 
 This is our semester project, TourBud.
 
-The tourism application is developed using cutting-edge technologies such as AndroidStudio for mobile app development, Node.js for the backend system, and PostgreSQL for robust database management. APIs like OpenStreetMap are integrated to provide location-based services and recommend tours. The app features a responsive and intuitive user interface designed using Figma, offering a seamless user experience.
- Advanced functionalities include personalized itinerary generation, real-time data updates, and collaborative travel planning. By leveraging GPS, machine learning, and real-time information sharing, the app delivers accurate and relevant information on attractions, events, restaurants, and lodging options. 
+The tourism application is developed using cutting-edge technologies such as AndroidStudio for mobile app development, Node.js for the backend system, and PostgreSQL for robust database management. 
+APIs like OpenStreetMap are integrated to provide location-based services and recommend tours. The app features a responsive and intuitive user interface designed using Figma, offering a seamless user experience.
+
+Advanced functionalities include personalized itinerary generation, real-time data updates, and collaborative travel planning. 
+By leveraging GPS, machine learning, and real-time information sharing, the app delivers accurate and relevant information on attractions, events, restaurants, and lodging options. 
 The app aims to revolutionize travel planning, enhance user experiences, and foster a sense of community among travelers.
 
 THE BORING STUFF :/
