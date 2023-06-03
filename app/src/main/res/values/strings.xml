@@ -1,0 +1,70 @@
+<resources>
+    <string name="app_name">TourBud</string>
+    <string name="departure">DEPARTURE</string>
+    <string name="arrival">arrival</string>
+    <string name="destination">Destination</string>
+    <string name="register">REGISTER</string>
+    <string name="password">PASSWORD</string>
+    <string name="login">LOGIN</string>
+    <string name="new_account">NEW ACCOUNT</string>
+    <string name="email_address">EMAIL ADDRESS</string>
+    <string name="full_name_text">FULL NAME</string>
+    <string name="abdullah_rizwan">Abdullah Rizwan</string>
+    <string name="password_hint">* * * * * * * * * * * * * * * * * * *</string>
+    <string name="email_hint">ahsan.shah@giki.edu.pk</string>
+    <string name="phone_number">PHONE NUMBER</string>
+    <string name="number_hint">03213636939</string>
+    <string name="proceed_text">PROCEED</string>7
+    <string name="username_hint">USERNAME</string>
+    <string name="destination_text">DESTINATION</string>
+    <string name="return_text">RETURN</string>
+    <string name="one_way_text">ONE WAY</string>
+    <string name="departure_date_text">DEPARTURE DATE</string>
+    <string name="return_date_text">RETURN DATE</string>
+    <string name="select_date_text">SELECT DATE</string>
+
+    <string-array name="departures">
+
+        <item></item>
+        <item>Karachi</item>
+        <item>Harrapa</item>
+        <item>Lahore</item>
+        <item>Islamabad</item>
+        <item>Faisalabad</item>
+        <item>Captive Kashmir</item>
+        <item>Rawalpindi</item>
+        <item>Chunia</item>
+        <item>Sukkur</item>
+        <item>Sahiwal</item>
+
+
+
+
+    </string-array>
+
+    <string-array name="arrivals_array">
+
+        <item></item>
+        <item>Gilgit</item>
+        <item>Gwadar</item>
+        <item>Lahore</item>
+        <item>Shogran</item>
+        <item>Naran &amp; Kaghan</item>
+        <item>Hunza</item>
+        <item>Nathiagali</item>
+        <item>Murree</item>
+        <item>Swat</item>
+        <item>Kalam</item>
+        <item></item>
+
+
+
+    </string-array>
+    <string name="title_activity_awin">awin</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="activity_text">ACTIVITY</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
