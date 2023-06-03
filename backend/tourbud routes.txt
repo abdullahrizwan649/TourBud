@@ -1,0 +1,68 @@
+user:
+login
+body should have email and password
+fail : status500
+pass : loggedIn: true, email: email, message: 'logged in' 
+
+http://192.168.137.245:3000/users/login
+
+register 
+body should have password, name, cnic, phone, email
+fail : status500
+pass : inserted:true
+http://192.168.137.245:3000/users/register
+
+show user info
+:id will be userid, ie 1 2 3 etc
+fail : status500, status404 (not found)
+pass : userinfo
+http://192.168.137.245:3000/users/:id
+
+signout
+body empty, returns "loggedIn": false, "userid": ""
+http://192.168.137.245:3000/users/signout
+
+tours:
+show all 
+fail : status500
+pass : all in tours table
+http://localhost:3000/tours/
+
+search
+body should have 
+origin, destination, departureDate can be null, returnDate can be null, noofpeople can be null
+fail : status500
+pass : returns all matching tours, format: 
+"tourid": 7,
+"origin": "Lahore",
+"destination": "Topi",
+"departuredate": "2024-05-01T00:00:00+05:00",
+"returndate": "2024-05-15T00:00:00+05:00",
+"noofpeople": 112,
+"cost": 16000,
+"tourprovider": "12",
+"details": "help"
+
+http://localhost:3000/tours/search
+
+book
+body requires userid, tourid
+fail : status500, status400 (tour already booked)
+pass : "inserted": true,
+        "tourDetails": {
+        "tourprovider": "12",
+        "tourprovidercontact": "10931"
+    }
+http://localhost:3000/tours/book
+
+activity:
+show user activity
+body requires userid. returns all relavant tours in the format of search
+fail : status500
+http://localhost:3000/activity/
+
+delete
+body requires userid tourid
+fail : returns status500 deleted:false
+pass : returns deleted:true 
+http://localhost:3000/activity/delete
